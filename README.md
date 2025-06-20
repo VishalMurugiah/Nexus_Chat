@@ -2,7 +2,7 @@
 
 A modern, real-time chat application built with React and Spring Boot, featuring WebSocket communication, stunning UI/UX with futuristic design elements, and MongoDB for data persistence.
 
-![Homepage](https://github.com/user-attachments/assets/838290b5-ef91-4bf3-bd1c-40cd0900bc90)
+![Dark Homepage](https://github.com/user-attachments/assets/838290b5-ef91-4bf3-bd1c-40cd0900bc90)
 
 
 
@@ -28,7 +28,7 @@ A modern, real-time chat application built with React and Spring Boot, featuring
 - **React Hot Toast** - Beautiful notifications
 
 ### Backend
-- **Spring Boot 3.4.0** - Java framework
+- **Spring Boot 3.4.0+** - Java framework
 - **Spring WebSocket** - Real-time communication
 - **MongoDB** - NoSQL database
 - **Maven** - Dependency management
@@ -36,17 +36,17 @@ A modern, real-time chat application built with React and Spring Boot, featuring
 
 ## 📸 Screenshots
 
-### Home Page
-![Home Page](path/to/home-screenshot.png) <!-- Add screenshot of JoinCreateChat component -->
+### Light Mode Home Page
+![Light Homepage](https://github.com/user-attachments/assets/fd35c9bc-9068-4485-9c59-9fdac61eccde)
 
 ### Chat Interface
-![Chat Interface](path/to/chat-screenshot.png) <!-- Add screenshot of ChatPage component -->
+![Light Chat Screen](https://github.com/user-attachments/assets/e244fd2c-5065-4d50-806f-b83b609bb8b1)
 
-### Dark Mode
-![Dark Mode](path/to/dark-mode-screenshot.png) <!-- Add screenshot showing dark mode -->
+### Dark Mode Chat Interface
+![Dark Chat Screen](https://github.com/user-attachments/assets/38341228-54e6-4b34-b669-32945b0be302)
 
-### Mobile View
-![Mobile View](path/to/mobile-screenshot.png) <!-- Add mobile responsive screenshot -->
+### MongoDB View
+![DB View](https://github.com/user-attachments/assets/bceb984b-827b-4c0a-8dcf-26a56d17ac39)
 
 ## Getting Started
 
